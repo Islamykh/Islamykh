@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Islamykh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Islam
+- 👀 I’m interested in coding and data analyst
+- 🌱 I’m currently learning HTML, CSS, JS, and Python
+- 💞️ I’m looking to collaborate on PHP
+
 
 <!---
 Islamykh/Islamykh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
